@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2 align="center">Hola People, I'm <a href="https://www.youtube.com/isukantapal" target="_blank">Sukanta</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<p align="center">
+  
+  
+  <a href="https://sukantapal.com"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"></a>
+  <a href="https://twitter.com/isukantapal"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white"></a>
+  <a href="https://instagram.com/sukanta_pal"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"></a>
+  <a href="https://palsukanta.wordpress.com/"><img src="https://img.shields.io/badge/Wordpress-21759b?style=flat-square&logo=wordpress&logoColor=white"></a>
+  
+</p>
+  
+👨‍💻 **About Me:**
 
-<!--
-**SukantaPal/sukantapal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Image of avatar holding an unplugged laptop" src="https://avatars.githubusercontent.com/u/6872051?v=4" height="300" /></p>
+The Creative Storyteller
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+-------
+
